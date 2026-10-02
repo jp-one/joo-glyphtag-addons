@@ -1,0 +1,8 @@
+pip
+build
+pytest
+pytest-cov
+ipykernel
+
+# custom_addons/joo_glyph_fonts/scripts/generate_css.py
+fonttools
